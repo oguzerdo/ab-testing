@@ -15,10 +15,10 @@ Therefore, for statistical testing, the focus should be on the `Purchase` metric
 
 You should answer the following questions in your presentation:
 
-How would you define the hypothesis of this A/B test?
-Can we conclude statistically significant results?
-Which statistical test did you use, and why ?
-Based on your answer to Question 2, what would be your recommendation to client?
+1. How would you define the hypothesis of this A/B test?
+2. Can we conclude statistically significant results?
+3. Which statistical test did you use, and why ?
+4. Based on your answer to Question 2, what would be your recommendation to client?
 
 ---
 
