@@ -22,7 +22,7 @@ statsmodels==0.13.2
 
 [ab-testing.ipynb](https://github.com/oguzerdo/ab-testing/blob/main/ab-testing/ab-testing.ipynb) - AB Test Project with proportion Z test.
 
-[ab-testing-anova.ipynb](https://github.com/oguzerdo/ab-testing/blob/main/ab-testing.ipynb) - AB Test Project with ANOVA
+[ab-testing-anova.ipynb](https://github.com/oguzerdo/ab-testing/blob/main/ab-testing-anova/ab-testing-anova.ipynb) - AB Test Project with ANOVA
 
 ---
 
